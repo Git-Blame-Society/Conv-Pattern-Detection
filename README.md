@@ -17,14 +17,14 @@ making it a minimal but research-worthy step toward Convolutional Neural Network
 ---
 
 ## 📂 Project Structure
-
+```
 ├── headers/
 │ ├── Convolution.hpp # Training logic and filters
 │ ├── Dataset.hpp # Binary dataset and labels
 │ ├── DetectPattern.hpp # Pattern detection function
 ├── main.cpp # Entry point
 └── README.md # Project documentation
-
+```
 ---
 
 ## ⚙️ Build & Run
